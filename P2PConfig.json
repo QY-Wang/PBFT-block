@@ -1,0 +1,9 @@
+{
+ "MaxPeers": 20,
+ "MaxPendingPeers": 20,
+ "Discovery": false,
+ "Name": ":30222",
+ "NodeDatabase": "",
+ "NoDial": false,
+ "ListenAddr": ":30222"
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "NodeID":"c1ac603bb0cdb6d2948a9e7cf40dcf86da2cd95644ec34a0b09ff13024859963839ec837969a51ffe3aa51a1e26a2631c61eea788e6a35a01ca73696bb852319",
+        "NodePK":"Qk1Hc1lEdXd6YmJTbElxZWZQUU56NGJhTE5sV1JPdzBvTENmOFRBa2habGpnNTdJTjVhYVVmL2pxbEdoNG1vbU1jWWU2bmlPYWpXZ0hLYzJscnVGSXhrPQ==",
+        "NodeType":"ConsensusNode",
+        "NodeStatus":"N_ABLED"
+    },
+    {
+        "NodeID":"b6736ae4d1734f6d29592f0db4480fd5dd6d98715e0981dbdd2489c14acb57958cda259bb064662f1237cbf5271cf3ee6dc9ac5afb7b4dad5104e244ce996f08",
+        "NodePK":"QkxaemF1VFJjMDl0S1ZrdkRiUklEOVhkYlpoeFhnbUIyOTBraWNGS3kxZVZqTm9sbTdCa1ppOFNOOHYxSnh6ejdtM0pyRnI3ZTAydFVRVGlSTTZaYndnPQ==",
+        "NodeType":"ConsensusNode",
+        "NodeStatus":"N_ABLED"
+    },
+    {
+        "NodeID":"3ac2a528373f175454830cb57930876d861ea6d9ce24a2aa507b7e6e077fd19771018b95e7bafc8f6a9a66eefb7d6ef9f8a6afa73f84e399741335e541cb8be2",
+        "NodePK":"QkRyQ3BTZzNQeGRVVklNTXRYa3doMjJHSHFiWnppU2lxbEI3Zm00SGY5R1hjUUdMbGVlNi9JOXFtbWJ1KzMxdStmaW1yNmMvaE9PWmRCTTE1VUhMaStJPQ==",
+        "NodeType":"ConsensusNode",
+        "NodeStatus":"N_ABLED"
+    },
+    {
+        "NodeID":"48de9fe6797554d14ab123a26d611326635c49178bf86c86a50cfd807be6735a7c71f78bf6668e563be8315ab1c599ba6bbb20d4cba4a865742773ef46c0b042",
+        "NodePK":"QkVqZW4rWjVkVlRSU3JFam9tMWhFeVpqWEVrWGkvaHNocVVNL1lCNzVuTmFmSEgzaS9abWpsWTc2REZhc2NXWnVtdTdJTlRMcEtobGRDZHo3MGJBc0VJPQ==",
+        "NodeType":"ConsensusNode",
+        "NodeStatus":"N_ABLED"
+    }
+
+]
